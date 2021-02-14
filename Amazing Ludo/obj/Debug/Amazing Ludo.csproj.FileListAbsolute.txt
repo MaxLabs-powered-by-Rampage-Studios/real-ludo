@@ -1,0 +1,54 @@
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\Bin\Debug\ApplicationIcon.png
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\Bin\Debug\Background.png
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\Bin\Debug\Amazing Ludo.dll
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\Bin\Debug\Amazing Ludo.pdb
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\Bin\Debug\AppManifest.xaml
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\Bin\Debug\Amazing_Ludo.xap
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\Bin\Debug\Ludo.dll
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\Bin\Debug\Ludo.pdb
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\Bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\obj\Debug\App.g.i.cs
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\obj\Debug\MainPage.g.i.cs
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\obj\Debug\Amazing Ludo.g.resources
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\obj\Debug\Amazing Ludo.dll
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\obj\Debug\Amazing Ludo.pdb
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\obj\Debug\XapCacheFile.xml
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\obj\Debug\Page1.g.i.cs
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\obj\Debug\Page2.g.i.cs
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\obj\Debug\Page3.g.i.cs
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\obj\Debug\Page4.g.i.cs
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\obj\Debug\Page5.g.i.cs
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\obj\Debug\PivotPage1.g.i.cs
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\obj\Debug\Page6.g.i.cs
+C:\Users\GANESH\Documents\Visual Studio 2010\Projects\Amazing Ludo\Amazing Ludo\obj\Debug\Page7.g.i.cs
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\Bin\Debug\ApplicationIcon.png
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\Bin\Debug\Background.png
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\Bin\Debug\Amazing Ludo.dll
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\Bin\Debug\Amazing Ludo.pdb
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\Bin\Debug\AppManifest.xaml
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\Bin\Debug\Amazing_Ludo.xap
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\Bin\Debug\Ludo.dll
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\Bin\Debug\Microsoft.Expression.Drawing.dll
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\Bin\Debug\Ludo.pdb
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\Bin\Debug\Microsoft.Expression.Drawing.xml
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\obj\Debug\ResolveAssemblyReference.cache
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\obj\Debug\App.g.i.cs
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\obj\Debug\MainPage.g.i.cs
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\obj\Debug\Page1.g.i.cs
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\obj\Debug\Page2.g.i.cs
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\obj\Debug\Page3.g.i.cs
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\obj\Debug\Page4.g.i.cs
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\obj\Debug\Page5.g.i.cs
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\obj\Debug\Page6.g.i.cs
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\obj\Debug\Page7.g.i.cs
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\obj\Debug\PivotPage1.g.i.cs
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\obj\Debug\Amazing Ludo.g.resources
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\obj\Debug\Amazing Ludo.dll
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\obj\Debug\Amazing Ludo.pdb
+D:\College\OOSE\Project\Amazing Ludo\Amazing Ludo\obj\Debug\XapCacheFile.xml
